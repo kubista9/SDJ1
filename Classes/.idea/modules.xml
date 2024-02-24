@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classes.iml" filepath="$PROJECT_DIR$/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Name_v1Create/Name_v1Create.iml" filepath="$PROJECT_DIR$/Name_v1Create/Name_v1Create.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person_v1/Person_v1.iml" filepath="$PROJECT_DIR$/Person_v1/Person_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person_v2/Person_v2.iml" filepath="$PROJECT_DIR$/Person_v2/Person_v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person_v3/Person_v3.iml" filepath="$PROJECT_DIR$/Person_v3/Person_v3.iml" />
+    </modules>
+  </component>
+</project>

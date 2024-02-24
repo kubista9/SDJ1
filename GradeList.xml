@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<GradeList>
+  <grades>
+    <grade>2</grade>
+    <course>SDJ</course>
+  </grades>
+  <grades>
+    <grade>4</grade>
+    <course>DMAY</course>
+  </grades>
+  <grades>
+    <grade>7</grade>
+    <course>SEP</course>
+  </grades>
+</GradeList>

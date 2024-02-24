@@ -1,0 +1,16 @@
+{
+  "grades": [
+    {
+      "grade": 2,
+      "course": "SDJ"
+    },
+    {
+      "grade": 4,
+      "course": "DMAY"
+    },
+    {
+      "grade": 7,
+      "course": "SEP"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter_1/Excercises01c/Excercises01c.iml" filepath="$PROJECT_DIR$/Chapter_1/Excercises01c/Excercises01c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise03a_v1-Name/Exercise03a_v1-Name.iml" filepath="$PROJECT_DIR$/Exercise03a_v1-Name/Exercise03a_v1-Name.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise03b_v1-Email/Exercise03b_v1-Email.iml" filepath="$PROJECT_DIR$/Exercise03b_v1-Email/Exercise03b_v1-Email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise03c_v1-Adress/Exercise03c_v1-Adress.iml" filepath="$PROJECT_DIR$/Exercise03c_v1-Adress/Exercise03c_v1-Adress.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise03d_v1-DriverLicence/Exercise03d_v1-DriverLicence.iml" filepath="$PROJECT_DIR$/Exercise03d_v1-DriverLicence/Exercise03d_v1-DriverLicence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise03e_v1-Engine/Exercise03e_v1-Engine.iml" filepath="$PROJECT_DIR$/Exercise03e_v1-Engine/Exercise03e_v1-Engine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise04-Grade/Exercise04-Grade.iml" filepath="$PROJECT_DIR$/Exercise04-Grade/Exercise04-Grade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise04a_v1-Person/Exercise04a_v1-Person.iml" filepath="$PROJECT_DIR$/Exercise04a_v1-Person/Exercise04a_v1-Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise04b_v1-MyDate/Exercise04b_v1-MyDate.iml" filepath="$PROJECT_DIR$/Exercise04b_v1-MyDate/Exercise04b_v1-MyDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise04c_v1-Clock/Exercise04c_v1-Clock.iml" filepath="$PROJECT_DIR$/Exercise04c_v1-Clock/Exercise04c_v1-Clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise04d_v1-Car/Exercise04d_v1-Car.iml" filepath="$PROJECT_DIR$/Exercise04d_v1-Car/Exercise04d_v1-Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise04e_v2-Car/Exercise04e_v2-Car.iml" filepath="$PROJECT_DIR$/Exercise04e_v2-Car/Exercise04e_v2-Car.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise05a_v2-Person/Exercise05a_v2-Person.iml" filepath="$PROJECT_DIR$/Exercise05a_v2-Person/Exercise05a_v2-Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise05b_v3-Person/Exercise05b_v3-Person.iml" filepath="$PROJECT_DIR$/Exercise05b_v3-Person/Exercise05b_v3-Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise05c_v2-Clock/Exercise05c_v2-Clock.iml" filepath="$PROJECT_DIR$/Exercise05c_v2-Clock/Exercise05c_v2-Clock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise05d-QuadraticFunction/Exercise05d-QuadraticFunction.iml" filepath="$PROJECT_DIR$/Exercise05d-QuadraticFunction/Exercise05d-QuadraticFunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise05e_v2-Address/Exercise05e_v2-Address.iml" filepath="$PROJECT_DIR$/Exercise05e_v2-Address/Exercise05e_v2-Address.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise06a_v2-MyDate/Exercise06a_v2-MyDate.iml" filepath="$PROJECT_DIR$/Exercise06a_v2-MyDate/Exercise06a_v2-MyDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise06c_v3-MyDate--Test/Exercise06c_v3-MyDate--Test.iml" filepath="$PROJECT_DIR$/Exercise06c_v3-MyDate--Test/Exercise06c_v3-MyDate--Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise07a-Loops/Exercise07a-Loops.iml" filepath="$PROJECT_DIR$/Exercise07a-Loops/Exercise07a-Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise07b-ValidationLoops/Exercise07b-ValidationLoops.iml" filepath="$PROJECT_DIR$/Exercise07b-ValidationLoops/Exercise07b-ValidationLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise07c-PasswordValidation/Exercise07c-PasswordValidation.iml" filepath="$PROJECT_DIR$/Exercise07c-PasswordValidation/Exercise07c-PasswordValidation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise07d-LeapYears/Exercise07d-LeapYears.iml" filepath="$PROJECT_DIR$/Exercise07d-LeapYears/Exercise07d-LeapYears.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise07e_v5-MyDate/Exercise07e_v5-MyDate.iml" filepath="$PROJECT_DIR$/Exercise07e_v5-MyDate/Exercise07e_v5-MyDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise08a-EqualAndCopy/Exercise08a-EqualAndCopy.iml" filepath="$PROJECT_DIR$/Exercise08a-EqualAndCopy/Exercise08a-EqualAndCopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise08b_v2-Email/Exercise08b_v2-Email.iml" filepath="$PROJECT_DIR$/Exercise08b_v2-Email/Exercise08b_v2-Email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise08c_v6-MyDate/Exercise08c_v6-MyDate.iml" filepath="$PROJECT_DIR$/Exercise08c_v6-MyDate/Exercise08c_v6-MyDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise09b-Job/Exercise09b-Job.iml" filepath="$PROJECT_DIR$/Exercise09b-Job/Exercise09b-Job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise09c-Song/Exercise09c-Song.iml" filepath="$PROJECT_DIR$/Exercise09c-Song/Exercise09c-Song.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise10a-HotelRoom/Exercise10a-HotelRoom.iml" filepath="$PROJECT_DIR$/Exercise10a-HotelRoom/Exercise10a-HotelRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise10b-CourseBook/Exercise10b-CourseBook.iml" filepath="$PROJECT_DIR$/Exercise10b-CourseBook/Exercise10b-CourseBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise10c-Garage/Exercise10c-Garage.iml" filepath="$PROJECT_DIR$/Exercise10c-Garage/Exercise10c-Garage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise10d-Circle/Exercise10d-Circle.iml" filepath="$PROJECT_DIR$/Exercise10d-Circle/Exercise10d-Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise11a-ArrayCreation/Exercise11a-ArrayCreation.iml" filepath="$PROJECT_DIR$/Exercise11a-ArrayCreation/Exercise11a-ArrayCreation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise11b_v1-GradeList/Exercise11b_v1-GradeList.iml" filepath="$PROJECT_DIR$/Exercise11b_v1-GradeList/Exercise11b_v1-GradeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise11c_v2-GradeList/Exercise11c_v2-GradeList.iml" filepath="$PROJECT_DIR$/Exercise11c_v2-GradeList/Exercise11c_v2-GradeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise11d_v3-GradeList/Exercise11d_v3-GradeList.iml" filepath="$PROJECT_DIR$/Exercise11d_v3-GradeList/Exercise11d_v3-GradeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise12a-PriorityNote/Exercise12a-PriorityNote.iml" filepath="$PROJECT_DIR$/Exercise12a-PriorityNote/Exercise12a-PriorityNote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise12b-Hotel/Exercise12b-Hotel.iml" filepath="$PROJECT_DIR$/Exercise12b-Hotel/Exercise12b-Hotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise12c-CD/Exercise12c-CD.iml" filepath="$PROJECT_DIR$/Exercise12c-CD/Exercise12c-CD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise12d-VehicleList_array/Exercise12d-VehicleList_array.iml" filepath="$PROJECT_DIR$/Exercise12d-VehicleList_array/Exercise12d-VehicleList_array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13a-ArrayList/Exercise13a-ArrayList.iml" filepath="$PROJECT_DIR$/Exercise13a-ArrayList/Exercise13a-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13b_v4-GradeList/Exercise13b_v4-GradeList.iml" filepath="$PROJECT_DIR$/Exercise13b_v4-GradeList/Exercise13b_v4-GradeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13c_v5-GradeList/Exercise13c_v5-GradeList.iml" filepath="$PROJECT_DIR$/Exercise13c_v5-GradeList/Exercise13c_v5-GradeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13d-HotelArray_list/Exercise13d-HotelArray_list.iml" filepath="$PROJECT_DIR$/Exercise13d-HotelArray_list/Exercise13d-HotelArray_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise13e-VehicleList_ArrayList/Exercise13e-VehicleList_ArrayList.iml" filepath="$PROJECT_DIR$/Exercise13e-VehicleList_ArrayList/Exercise13e-VehicleList_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise14a-ApartmentComplex/Exercise14a-ApartmentComplex.iml" filepath="$PROJECT_DIR$/Exercise14a-ApartmentComplex/Exercise14a-ApartmentComplex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise15a_v1-Mp3-Player/Exercise15a_v1-Mp3-Player.iml" filepath="$PROJECT_DIR$/Exercise15a_v1-Mp3-Player/Exercise15a_v1-Mp3-Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise15b_v3-Mp3-Player/Exercise15b_v3-Mp3-Player.iml" filepath="$PROJECT_DIR$/Exercise15b_v3-Mp3-Player/Exercise15b_v3-Mp3-Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise15c-Kindergarden/Exercise15c-Kindergarden.iml" filepath="$PROJECT_DIR$/Exercise15c-Kindergarden/Exercise15c-Kindergarden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise16a-TV_series/Exercise16a-TV_series.iml" filepath="$PROJECT_DIR$/Exercise16a-TV_series/Exercise16a-TV_series.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise16b-Football_Club/Exercise16b-Football_Club.iml" filepath="$PROJECT_DIR$/Exercise16b-Football_Club/Exercise16b-Football_Club.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise17-Testexam_ColorPalette/Exercise17-Testexam_ColorPalette.iml" filepath="$PROJECT_DIR$/Exercise17-Testexam_ColorPalette/Exercise17-Testexam_ColorPalette.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise17-Testexam_Forum/Exercise17-Testexam_Forum.iml" filepath="$PROJECT_DIR$/Exercise17-Testexam_Forum/Exercise17-Testexam_Forum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise17-Testexam_Order/Exercise17-Testexam_Order.iml" filepath="$PROJECT_DIR$/Exercise17-Testexam_Order/Exercise17-Testexam_Order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise17-Testexam_StudentList/Exercise17-Testexam_StudentList.iml" filepath="$PROJECT_DIR$/Exercise17-Testexam_StudentList/Exercise17-Testexam_StudentList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise19a-VehicleHierarchy/Exercise19a-VehicleHierarchy.iml" filepath="$PROJECT_DIR$/Exercise19a-VehicleHierarchy/Exercise19a-VehicleHierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise19b-PersonHierarchy/Exercise19b-PersonHierarchy.iml" filepath="$PROJECT_DIR$/Exercise19b-PersonHierarchy/Exercise19b-PersonHierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_01/Exercise1_01.iml" filepath="$PROJECT_DIR$/Exercise1_01/Exercise1_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_02/Exercise1_02.iml" filepath="$PROJECT_DIR$/Exercise1_02/Exercise1_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_03/Exercise1_03.iml" filepath="$PROJECT_DIR$/Exercise1_03/Exercise1_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_05/Exercise1_05.iml" filepath="$PROJECT_DIR$/Exercise1_05/Exercise1_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_07/Exercise1_07.iml" filepath="$PROJECT_DIR$/Exercise1_07/Exercise1_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise1_08/Exercise1_08.iml" filepath="$PROJECT_DIR$/Exercise1_08/Exercise1_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise20a-2Dshape/Exercise20a-2Dshape.iml" filepath="$PROJECT_DIR$/Exercise20a-2Dshape/Exercise20a-2Dshape.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise20b-Education/Exercise20b-Education.iml" filepath="$PROJECT_DIR$/Exercise20b-Education/Exercise20b-Education.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise20c-PersonHome/Exercise20c-PersonHome.iml" filepath="$PROJECT_DIR$/Exercise20c-PersonHome/Exercise20c-PersonHome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise20d-ClubMember/Exercise20d-ClubMember.iml" filepath="$PROJECT_DIR$/Exercise20d-ClubMember/Exercise20d-ClubMember.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise20e-Toy/Exercise20e-Toy.iml" filepath="$PROJECT_DIR$/Exercise20e-Toy/Exercise20e-Toy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise21a-GradeList_Application/Exercise21a-GradeList_Application.iml" filepath="$PROJECT_DIR$/Exercise21a-GradeList_Application/Exercise21a-GradeList_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise21b-CDList_Application/Exercise21b-CDList_Application.iml" filepath="$PROJECT_DIR$/Exercise21b-CDList_Application/Exercise21b-CDList_Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise22a-GradeList_Exceptions/Exercise22a-GradeList_Exceptions.iml" filepath="$PROJECT_DIR$/Exercise22a-GradeList_Exceptions/Exercise22a-GradeList_Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise22b-PersonExceptions/Exercise22b-PersonExceptions.iml" filepath="$PROJECT_DIR$/Exercise22b-PersonExceptions/Exercise22b-PersonExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise22c-HotelExceptions/Exercise22c-HotelExceptions.iml" filepath="$PROJECT_DIR$/Exercise22c-HotelExceptions/Exercise22c-HotelExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise22d-InputExceptions/Exercise22d-InputExceptions.iml" filepath="$PROJECT_DIR$/Exercise22d-InputExceptions/Exercise22d-InputExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise22e-InputExceptions/Exercise22e-InputExceptions.iml" filepath="$PROJECT_DIR$/Exercise22e-InputExceptions/Exercise22e-InputExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise22f-EmailExceptions/Exercise22f-EmailExceptions.iml" filepath="$PROJECT_DIR$/Exercise22f-EmailExceptions/Exercise22f-EmailExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise22g-OtherExceptions/Exercise22g-OtherExceptions.iml" filepath="$PROJECT_DIR$/Exercise22g-OtherExceptions/Exercise22g-OtherExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise23a-GradeList_Files/Exercise23a-GradeList_Files.iml" filepath="$PROJECT_DIR$/Exercise23a-GradeList_Files/Exercise23a-GradeList_Files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise23b-HtmlFiles/Exercise23b-HtmlFiles.iml" filepath="$PROJECT_DIR$/Exercise23b-HtmlFiles/Exercise23b-HtmlFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise24a-GradeList_XML/Exercise24a-GradeList_XML.iml" filepath="$PROJECT_DIR$/Exercise24a-GradeList_XML/Exercise24a-GradeList_XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise24b-Config_XML/Exercise24b-Config_XML.iml" filepath="$PROJECT_DIR$/Exercise24b-Config_XML/Exercise24b-Config_XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise2_03/Exercise2_03.iml" filepath="$PROJECT_DIR$/Exercise2_03/Exercise2_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise2_04/Exercise2_04.iml" filepath="$PROJECT_DIR$/Exercise2_04/Exercise2_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise2_05/Exercise2_05.iml" filepath="$PROJECT_DIR$/Exercise2_05/Exercise2_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercise2_06/Exercise2_06.iml" filepath="$PROJECT_DIR$/Exercise2_06/Exercise2_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notes/Notes.iml" filepath="$PROJECT_DIR$/Notes/Notes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pizza/Pizza.iml" filepath="$PROJECT_DIR$/Pizza/Pizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SDJ1.iml" filepath="$PROJECT_DIR$/SDJ1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyDate_v3/Test - MyDate_v3.iml" filepath="$PROJECT_DIR$/MyDate_v3/Test - MyDate_v3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestExam10_DigitalCamera/TestExam10_DigitalCamera.iml" filepath="$PROJECT_DIR$/TestExam10_DigitalCamera/TestExam10_DigitalCamera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestExam1_carRental/TestExam1_carRental.iml" filepath="$PROJECT_DIR$/TestExam1_carRental/TestExam1_carRental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestExam2_StudentList/TestExam2_StudentList.iml" filepath="$PROJECT_DIR$/TestExam2_StudentList/TestExam2_StudentList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestExam3_Book/TestExam3_Book.iml" filepath="$PROJECT_DIR$/TestExam3_Book/TestExam3_Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestExam4_ApartmentComplex/TestExam4_ApartmentComplex.iml" filepath="$PROJECT_DIR$/TestExam4_ApartmentComplex/TestExam4_ApartmentComplex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestExam5_HousePlumbing/TestExam5_HousePlumbing.iml" filepath="$PROJECT_DIR$/TestExam5_HousePlumbing/TestExam5_HousePlumbing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestExam6_Pizza/TestExam6_Pizza.iml" filepath="$PROJECT_DIR$/TestExam6_Pizza/TestExam6_Pizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestExam7_SiteCollection/TestExam7_SiteCollection.iml" filepath="$PROJECT_DIR$/TestExam7_SiteCollection/TestExam7_SiteCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestExam8_EmployeeList/TestExam8_EmployeeList.iml" filepath="$PROJECT_DIR$/TestExam8_EmployeeList/TestExam8_EmployeeList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestExam9_ Order/TestExam9_ Order.iml" filepath="$PROJECT_DIR$/TestExam9_ Order/TestExam9_ Order.iml" />
+    </modules>
+  </component>
+</project>
