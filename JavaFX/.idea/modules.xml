@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DateGUI/DateGUI.iml" filepath="$PROJECT_DIR$/DateGUI/DateGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GradeListGUI/GradeListGUI.iml" filepath="$PROJECT_DIR$/GradeListGUI/GradeListGUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFX.iml" filepath="$PROJECT_DIR$/JavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LoginGUI/LoginGUI.iml" filepath="$PROJECT_DIR$/LoginGUI/LoginGUI.iml" />
+    </modules>
+  </component>
+</project>
